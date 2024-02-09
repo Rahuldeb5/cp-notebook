@@ -1,4 +1,4 @@
-# cp-notebook
+# CP-Notebook
 Resources for Competitive Programming
 
 Plan (beginner-intermediate):
